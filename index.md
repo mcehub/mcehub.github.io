@@ -14,8 +14,6 @@ Uc Kantun Orlando de Jesus
 ...y muchos más!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Contacto
 
 Si tienes una duda o comentario, por favor envíanos un correo a hub.mce@gmail.com
