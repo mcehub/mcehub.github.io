@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Un espacio para compartir
+
+Ésta página fue creada con el propósito de compartir experiencias entre personas interesadas en la ciencia de datos, la estadística y la programación.
 
 You can use the [editor on GitHub](https://github.com/mcehub/mcehub.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,7 +11,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Miembros de MCE Hub
+
+Castillo Casanova Román
+Miranda Belmonte Hairo 
+Uc Kantun Orlando de Jesus
 
 # Header 1
 ## Header 2
