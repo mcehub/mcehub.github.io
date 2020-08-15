@@ -1,6 +1,6 @@
 # Un espacio para compartir
 
-Ésta página fue creada con el propósito de compartir experiencias entre personas interesadas en la ciencia de datos, la estadística y la programación.
+Ésta página fue creada con el propósito de compartir conocimiento entre personas interesadas en la ciencia de datos, la estadística y la programación.
 
 
 ### Miembros de MCE Hub
