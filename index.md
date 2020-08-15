@@ -1,4 +1,4 @@
-![logo](https://github.com/mcehub/mcehub.github.io/blob/master/mcehub_logo.png)
+![alt text](https://github.com/mcehub/mcehub.github.io/blob/master/mcehub_logo.png "Logo 1")
 
 # Un espacio para compartir
 
