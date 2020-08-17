@@ -1,6 +1,3 @@
-![logo](https://github.com/mcehub/mcehub.github.io/blob/master/mcehub_logo.png)
-
-
 <p align="center">
   <img src="./mcehub_logo.png" alt="logocentrado"/>
 </p>
