@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mcehub/mcehub.github.io/blob/master/mcehub_logo.png"/>
+</p>
+
 # Un espacio para compartir
 
 Ésta página fue creada con el propósito de compartir conocimiento entre personas interesadas en la ciencia de datos, la estadística y la programación.
