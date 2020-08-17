@@ -6,7 +6,7 @@
 # Un espacio para compartir
 
 Ésta página fue creada con el propósito de compartir conocimiento entre personas interesadas en la ciencia de datos, la estadística y la programación.
-
+Somos un grupo de estudiantes y graduados de la maestría en cómputo estadístico del CIMAT Monterrey, interesados en la Ciencia de Datos.
 
 ### Miembros de MCE Hub
 
