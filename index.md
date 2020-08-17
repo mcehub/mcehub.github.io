@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mcehub_logo.png" alt="logocentrado"/>
+  <img src="./mcehub_logo2.png" alt="logocentrado"/>
 </p>
 
 
