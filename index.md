@@ -23,7 +23,7 @@ Uc Kantun Orlando de Jesus
 ### Próximos eventos relacionados
 
 [DataJam Pasos Libres Online 2020](https://www.ibm.com/events/co/es/datajam/)\
-Del 29 al 4 de septiembre de 2020, IBM y Fundación Pasos Libres.
+Del 29 de agosto al 4 de septiembre de 2020, IBM y Fundación Pasos Libres.
 
 [Escuela de Verano de Procesamiento de Lenguaje Natural 2020](https://ampln.github.io/escuelaverano2020/#contact)\
 Del 2 al 4 de septiembre de 2020, Red Temática en Tecnologías del Lenguaje CONACYT y Asociación Mexicana de Procesamiento de Lenguaje Natural.
