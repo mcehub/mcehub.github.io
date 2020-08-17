@@ -1,8 +1,10 @@
 ![logo](https://github.com/mcehub/mcehub.github.io/blob/master/mcehub_logo.png)
 
+<!---
 <p align="center">
-  <img src="https://github.com/mcehub/mcehub.github.io/blob/master/mcehub_logo.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/mcehub/mcehub.github.io/blob/master/mcehub_logo.png" alt=""/>
 </p>
+-->
 
 # Un espacio para compartir
 
