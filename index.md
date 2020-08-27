@@ -33,11 +33,11 @@ Del 2 al 4 de septiembre de 2020, Red Temática en Tecnologías del Lenguaje CON
 [XIII Foro de Matemáticas del Sureste](http://congresos.ujat.mx/foromatematicas/)\
 Del 14 al 18 de septiembre de 2020, Universidad Juárez Autónoma de Tabasco.
 
-[Escuela de Ciencia de Datos 2020](http://www.matcuer.unam.mx/cienciasdatos)\
-Del 19 al 31 de octubre de 2020, Unidad Cuernavaca del Instituto de Matemáticas de la UNAM.
-
 [Congreso Nacional Virtual de la Sociedad Matemática Mexicana 2020](https://www.smm.org.mx/congreso)\
 Del 19 al 23 de octubre de 2020, Sociedad Matemática Mexicana.
+
+[Escuela de Ciencia de Datos 2020](http://www.matcuer.unam.mx/cienciasdatos)\
+Del 19 al 31 de octubre de 2020, Unidad Cuernavaca del Instituto de Matemáticas de la UNAM.
 
 [Escuela de Modelación y Métodos Numéricos 2020: Supercómputo](http://modelacion2020.eventos.cimat.mx/)\
 Del 28 al 30 de octubre de 2020, Centro de Investigación en Matemáticas.
