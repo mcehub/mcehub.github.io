@@ -22,7 +22,7 @@ Uc Kantun Orlando de Jesus
 ### Próximos eventos relacionados
 
 [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home)\
-Del 24 de agosto al 38 de agosto de 2020, Bernoulli Society for Mathematical Statistics and Probability, Institute of Mathematical Statistics y  One World Probability Project
+Del 24 de agosto al 28 de agosto de 2020, Bernoulli Society for Mathematical Statistics and Probability, Institute of Mathematical Statistics y  One World Probability Project
 
 [DataJam Pasos Libres Online 2020](https://www.ibm.com/events/co/es/datajam/)\
 Del 29 de agosto al 4 de septiembre de 2020, IBM y Fundación Pasos Libres.
