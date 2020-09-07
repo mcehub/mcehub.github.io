@@ -21,15 +21,6 @@ Uc Kantun Orlando de Jesus
 
 ### Próximos eventos relacionados
 
-[Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home)\
-Del 24 de agosto al 28 de agosto de 2020, Bernoulli Society for Mathematical Statistics and Probability, Institute of Mathematical Statistics y  One World Probability Project.
-
-[DataJam Pasos Libres Online 2020](https://www.ibm.com/events/co/es/datajam/)\
-Del 29 de agosto al 4 de septiembre de 2020, IBM y Fundación Pasos Libres.
-
-[Escuela de Verano de Procesamiento de Lenguaje Natural 2020](https://ampln.github.io/escuelaverano2020)\
-Del 2 al 4 de septiembre de 2020, Red Temática en Tecnologías del Lenguaje CONACYT y Asociación Mexicana de Procesamiento de Lenguaje Natural.
-
 [XIII Foro de Matemáticas del Sureste](http://congresos.ujat.mx/foromatematicas/)\
 Del 14 al 18 de septiembre de 2020, Universidad Juárez Autónoma de Tabasco.
 
@@ -41,6 +32,18 @@ Del 19 al 31 de octubre de 2020, Unidad Cuernavaca del Instituto de Matemáticas
 
 [Escuela de Modelación y Métodos Numéricos 2020: Supercómputo](http://modelacion2020.eventos.cimat.mx/)\
 Del 28 al 30 de octubre de 2020, Centro de Investigación en Matemáticas.
+
+### Eventos pasados
+
+[Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home)\
+Del 24 de agosto al 28 de agosto de 2020, Bernoulli Society for Mathematical Statistics and Probability, Institute of Mathematical Statistics y  One World Probability Project.
+
+[DataJam Pasos Libres Online 2020](https://www.ibm.com/events/co/es/datajam/)\
+Del 29 de agosto al 4 de septiembre de 2020, IBM y Fundación Pasos Libres.
+
+[Escuela de Verano de Procesamiento de Lenguaje Natural 2020](https://ampln.github.io/escuelaverano2020)\
+Del 2 al 4 de septiembre de 2020, Red Temática en Tecnologías del Lenguaje CONACYT y Asociación Mexicana de Procesamiento de Lenguaje Natural.
+
 
 ### Contacto
 
