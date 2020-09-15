@@ -36,7 +36,7 @@ Del 28 al 30 de octubre de 2020, Centro de Investigación en Matemáticas.
 [Taller Mexicano en Ciencia de Datos y Big Data](http://tallercdbd.eventos.cimat.mx/node/1508/)\
 Del 29 al 30 de octubre de 2020, Centro de Investigación en Matemáticas, Unidad Monterrey.
 
-[II Congreso Internacional de Ciencia de la Computación y X Congreso Nacional de Ciencias de la Computación](https://conacic.siycise.org/)\
+[II Congreso Internacional de Ciencias de la Computación y X Congreso Nacional de Ciencias de la Computación](https://conacic.siycise.org/)\
 Del 9 al 13 de Noviembre de 2020, Benemérita Universidad Autónoma de Puebla.
 
 ### Eventos pasados
