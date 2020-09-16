@@ -24,6 +24,9 @@ Uc Kantun Orlando de Jesus
 [XIII Foro de Matemáticas del Sureste](http://congresos.ujat.mx/foromatematicas/)\
 Del 14 al 18 de septiembre de 2020, Universidad Juárez Autónoma de Tabasco.
 
+[8° Seminario y 7a Escuela Nacional de Aprendizaje e Inteligencia Computacional](https://ccc.inaoep.mx/SNAIC/2020/index.html)\
+Del 28 de septiembre al 2 de octubre de 2020, Instituto Nacional de Astrofísica, Óptica y Electrónica.
+
 [Congreso Nacional Virtual de la Sociedad Matemática Mexicana 2020](https://www.smm.org.mx/congreso)\
 Del 19 al 23 de octubre de 2020, Sociedad Matemática Mexicana.
 
