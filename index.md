@@ -21,11 +21,6 @@ Uc Kantun Orlando de Jesus
 
 ### Próximos eventos relacionados
 
-
-
-[Congreso Nacional Virtual de la Sociedad Matemática Mexicana 2020](https://www.smm.org.mx/congreso)\
-Del 19 al 23 de octubre de 2020, Sociedad Matemática Mexicana.
-
 [Escuela de Ciencia de Datos 2020](http://www.matcuer.unam.mx/cienciasdatos)\
 Del 19 al 31 de octubre de 2020, Unidad Cuernavaca del Instituto de Matemáticas de la UNAM.
 
@@ -35,10 +30,19 @@ Del 28 al 30 de octubre de 2020, Centro de Investigación en Matemáticas.
 [Taller Mexicano en Ciencia de Datos y Big Data](http://tallercdbd.eventos.cimat.mx/node/1508/)\
 Del 29 al 30 de octubre de 2020, Centro de Investigación en Matemáticas, Unidad Monterrey.
 
+[XVIII Escuela de Probabilidad y Estadística](http://epe2020.eventos.cimat.mx/)\
+Del 2 al 4 de noviembre de 2020, Centro de Investigación en Matemáticas.
+
+[Get Together: Friends of CIMAT, 40th Anniversary](http://friendsofcimat.eventos.cimat.mx/)\
+Del 5 al 6 de noviembre de 2020, Centro de Investigación en Matemáticas, Unidad Monterrey.
+
 [II Congreso Internacional de Ciencias de la Computación y X Congreso Nacional de Ciencias de la Computación](https://conacic.siycise.org/)\
-Del 9 al 13 de Noviembre de 2020, Benemérita Universidad Autónoma de Puebla.
+Del 9 al 13 de noviembre de 2020, Benemérita Universidad Autónoma de Puebla.
 
 ### Eventos pasados
+
+[Congreso Nacional Virtual de la Sociedad Matemática Mexicana 2020](https://www.smm.org.mx/congreso)\
+Del 19 al 23 de octubre de 2020, Sociedad Matemática Mexicana.
 
 [Hackaton BBVA 2020](https://openinnovation.bbva.com/es/evento/hackathon-bbva-2020)\
 Del 16 al 18 de octubre de 2020, Banco BBVA.
