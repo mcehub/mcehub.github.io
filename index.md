@@ -21,25 +21,34 @@ Uc Kantun Orlando de Jesus
 
 ### Próximos eventos relacionados
 
-[Escuela de Ciencia de Datos 2020](http://www.matcuer.unam.mx/cienciasdatos)\
-Del 19 al 31 de octubre de 2020, Unidad Cuernavaca del Instituto de Matemáticas de la UNAM.
+[II Congreso Internacional de Ciencias de la Computación y X Congreso Nacional de Ciencias de la Computación](https://conacic.siycise.org/)\
+Del 9 al 13 de noviembre de 2020, Benemérita Universidad Autónoma de Puebla.
 
-[Escuela de Modelación y Métodos Numéricos 2020: Supercómputo](http://modelacion2020.eventos.cimat.mx/)\
-Del 28 al 30 de octubre de 2020, Centro de Investigación en Matemáticas.
+[XXI Congreso Internacional de Informática y Sistemas – CIIS 2020](https://www.ciistacna.com/2020/)\
+Del 9 al 13 de noviembre de 2020, Universidad Nacional Jorge Basadre Grohmann, Tacná, Perú.
 
-[Taller Mexicano en Ciencia de Datos y Big Data](http://tallercdbd.eventos.cimat.mx/node/1508/)\
-Del 29 al 30 de octubre de 2020, Centro de Investigación en Matemáticas, Unidad Monterrey.
+[14° Taller de Solución de Problemas Industriales](http://spi.eventos.cimat.mx/)\
+Del 11 al 15 de enero de 2021, Centro de Investigación en Matemáticas.
 
-[XVIII Escuela de Probabilidad y Estadística](http://epe2020.eventos.cimat.mx/)\
-Del 2 al 4 de noviembre de 2020, Centro de Investigación en Matemáticas.
+[XX Escuela de Matemáticas](http://matmor.unam.mx/eventos/escuela2021/)\
+Del 11 al 15 de enero de 2021, Centro de Ciencias Matemáticas, UNAM Campus Morelia.
+
+### Eventos pasados
 
 [Get Together: Friends of CIMAT, 40th Anniversary](http://friendsofcimat.eventos.cimat.mx/)\
 Del 5 al 6 de noviembre de 2020, Centro de Investigación en Matemáticas, Unidad Monterrey.
 
-[II Congreso Internacional de Ciencias de la Computación y X Congreso Nacional de Ciencias de la Computación](https://conacic.siycise.org/)\
-Del 9 al 13 de noviembre de 2020, Benemérita Universidad Autónoma de Puebla.
+[XVIII Escuela de Probabilidad y Estadística](http://epe2020.eventos.cimat.mx/)\
+Del 2 al 4 de noviembre de 2020, Centro de Investigación en Matemáticas.
 
-### Eventos pasados
+[Taller Mexicano en Ciencia de Datos y Big Data](http://tallercdbd.eventos.cimat.mx/node/1508/)\
+Del 29 al 30 de octubre de 2020, Centro de Investigación en Matemáticas, Unidad Monterrey.
+
+[Escuela de Modelación y Métodos Numéricos 2020: Supercómputo](http://modelacion2020.eventos.cimat.mx/)\
+Del 28 al 30 de octubre de 2020, Centro de Investigación en Matemáticas.
+
+[Escuela de Ciencia de Datos 2020](http://www.matcuer.unam.mx/cienciasdatos)\
+Del 19 al 31 de octubre de 2020, Unidad Cuernavaca del Instituto de Matemáticas de la UNAM.
 
 [Congreso Nacional Virtual de la Sociedad Matemática Mexicana 2020](https://www.smm.org.mx/congreso)\
 Del 19 al 23 de octubre de 2020, Sociedad Matemática Mexicana.
